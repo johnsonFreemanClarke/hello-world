@@ -1,5 +1,7 @@
 This will be my text file for feature 1 test.
 this will be the 2nd line
 
+adding 4th line here.
+
 alpha 
 charlie
